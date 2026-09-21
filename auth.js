@@ -1,3 +1,4 @@
+// Update login logic
 const USERS = {
   admin: '123',
   user1: 'p@ss#w0rd!'
